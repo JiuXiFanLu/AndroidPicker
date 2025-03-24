@@ -1,3 +1,7 @@
+这个大概率是7年前，从别的地方找的，怕丢了，就上传到GitHub了，还有可能会用到，暂时先不删了。
+现在不用android原生做移动端了，大概率过段时间可能会删掉。
+
+
 # Summary
 [![API](https://img.shields.io/badge/API-9%2B-green.svg)](https://github.com/gzu-liyujiang/AndroidPicker)
 [![Download](https://api.bintray.com/packages/gzu-liyujiang/maven/WheelPicker/images/download.svg)](http://jcenter.bintray.com/cn/qqtheme/framework/)   
